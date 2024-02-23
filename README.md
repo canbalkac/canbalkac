@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @canbalkac
 - 👀 I’m interested in coding and learning languages
-- 🌱 I’m currently learning Node.js
 - 📫 How to reach me canbalkac3@gmail.com
