@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @canbalkac
-- 👀 I’m interested in coding and learning languages
+- 👀 I’m junior game developer currently working on my very own game.
 - 📫 How to reach me canbalkac3@gmail.com
