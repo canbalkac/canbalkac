@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white">
 </p>
 
 <p align="center">
