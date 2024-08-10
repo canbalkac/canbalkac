@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @canbalkac
-- 👀 I’m junior game developer currently working on my very own game.
+- 👀 I’m junior software engineer.
 - 📫 How to reach me canbalkac3@gmail.com
