@@ -23,7 +23,7 @@
 </p>
 
 <h2 align="center">Projects</h2>
-<a href="https://cloth-store-ecommerce.vercel.app/products/0 align="center">Cloth E-Commerce</a>
+<a href="https://cloth-store-ecommerce.vercel.app/products/0" align="center">Cloth E-Commerce</a>
 
 <h2 align="center">Connect with me</h2>
 
