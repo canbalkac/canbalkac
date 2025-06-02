@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=white">
 </p>
 
+<h2 align="center">Projects</h2>
+<link href="https://cloth-store-ecommerce.vercel.app/products/0">Cloth E-Commerce</link>
+
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
