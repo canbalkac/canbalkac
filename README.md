@@ -60,7 +60,7 @@
 
 <h3 align="left">My Projects</h3>
 <div align="left>
-  <a href="https://cloth-store-ecommerce.vercel.app/">Cloth E-Commerce</a>
+  <a href="https://cloth-store-ecommerce.vercel.app/"> Cloth Store E-Commerce </a>
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
