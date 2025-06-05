@@ -1,40 +1,71 @@
-<h1 align="center">Welcome! 👋</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Skills-yellow?style=for-the-badge">
-</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-red?style=for-the-badge">
-</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=white">
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=canbalkac.canbalkac&"  />
+</div>
 
-<h2 align="center">Projects</h2>
-<a href="https://cloth-store-ecommerce.vercel.app" align="center">Cloth E-Commerce</a>
+###
 
-<h2 align="center">Connect with me</h2>
+<h1 align="center">hey there 👋</h1>
 
-<p align="center">
-  <a href="mailto:canbalkac3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/canbalkac">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/vypero">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white">
-  </a>
-</p>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Can from Turkey<br><br>- 🔭 I'm a Fullstack Software Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ In my free time I'm going to the gym.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=canbalkac&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
