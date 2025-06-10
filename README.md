@@ -53,11 +53,11 @@
 </div>
 
 <h3 align="left">My Projects</h3>
-<div align="left">
-<a href="https://cloth-store-ecommerce.vercel.app/"> Cloth Store E-Commerce </a>
-</div>
 <div>
 <a href="https://shopco-liart-eight.vercel.app/">SHOP.CO</a>
+</div>
+<div align="left">
+<a href="https://cloth-store-ecommerce.vercel.app/"> Cloth Store E-Commerce </a>
 </div>
 <h3 align="left">🔥   My Stats :</h3>
 
