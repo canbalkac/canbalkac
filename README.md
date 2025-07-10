@@ -54,6 +54,9 @@
 
 <h3 align="left">My Projects</h3>
 <div>
+<a href="[https://shopco-liart-eight.vercel.app/](https://noirbyte.com/)">Rule Guesser Game</a>
+</div>
+<div>
 <a href="https://shopco-liart-eight.vercel.app/">SHOP.CO</a>
 </div>
 <div align="left">
